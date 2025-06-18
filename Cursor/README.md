@@ -1,19 +1,19 @@
-# FIFA Virtual Assistant
+# PYTHON Virtual Assistant
 
-A Python-based virtual assistant named FIFA that can perform various tasks through voice commands.
+A Python-based virtual assistant that can perform various tasks through voice commands.
 
 ## Features
 
 - Voice command recognition
 - Time and date information
-- Weather updates
+- Weather updates (API KEY)
 - Wikipedia searches
-- News updates
+- News updates (NEWS API)
 - YouTube song playback
 - Website opening
 - Mathematical calculations
 - WhatsApp messaging
-- OpenAI-powered question answering
+- OpenAI-powered question answering (OPEN AI KEY)
 
 ## Requirements
 
